@@ -1,0 +1,14 @@
+circle{
+    fill-opacity: .9;
+}
+line{
+    stroke:black;
+    stroke-opacity:0.6;
+}
+.label{
+    font-size: x-small;
+    font-family: sans-serif;
+}
+.inactive{
+    opacity: .1;
+}
